@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jun Winston</h1>
 <h3 align="center">Vietnamese gang pew pew pew (//3//)</h3>
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/SardonicSpotlessHuia-size_restricted.gif">
 
 - I’m currently working on **university**
 
@@ -19,7 +20,7 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/tcb19038877294011"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tcb19038877294011" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/junwinston"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/junwinston" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junwinston&show_icons=true&locale=en&layout=compact" alt="junwinston" /></p>
 
