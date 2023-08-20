@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jun Winston</h1>
+<h1 align="center">Hi, I'm Jun Winston</h1>
 <h3 align="center">Vietnamese gang pew pew pew (//3//)</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/SardonicSpotlessHuia-size_restricted.gif">
 
