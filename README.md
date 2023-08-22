@@ -1,7 +1,7 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=junwinston&" alt="junwinston" /></p>
 
 
-<h3 align="center">Huỳnh Minh Gia Thịnh nè mấy con zợ ơi</h3>
+<h2 align="center">Huỳnh Minh Gia Thịnh nè mấy con zợ ơi</h2>
 <img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/SardonicSpotlessHuia-size_restricted.gif">
 
 - I’m currently learning **everything about full stack**
