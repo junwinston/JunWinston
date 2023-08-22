@@ -7,11 +7,7 @@
 
 - I’m currently learning **everything about full stack**
 
-- Ask me? **pls don't ._.**
-
 - How to reach me **junwinston@outlook.com**
-
-- Fun fact **u're cute <3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
