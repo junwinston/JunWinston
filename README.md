@@ -1,6 +1,6 @@
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=junwinston&show_icons=true&locale=en" alt="junwinston" /></p>
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=junwinston&" alt="junwinston" /></p>
+
+
 <h3 align="center">Huỳnh Minh Gia Thịnh nè mấy con zợ ơi</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/SardonicSpotlessHuia-size_restricted.gif">
 
