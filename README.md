@@ -2,7 +2,7 @@
 
 
 <h3 align="center">Huỳnh Minh Gia Thịnh nè mấy con zợ ơi</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/SardonicSpotlessHuia-size_restricted.gif">
+<img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/SardonicSpotlessHuia-size_restricted.gif">
 
 - I’m currently learning **everything about full stack**
 
