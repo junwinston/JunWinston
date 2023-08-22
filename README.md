@@ -1,17 +1,7 @@
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tangly1024&theme=github" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tangly1024&theme=github" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tangly1024&theme=github" />
-  </a>
-</div>
-<h1 align="center">Hi, I'm Jun Winston</h1>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junwinston&show_icons=true&locale=en" alt="junwinston" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junwinston&" alt="junwinston" /></p>
 <h3 align="center">Huỳnh Minh Gia Thịnh nè mấy con zợ ơi</h3>
-<h4 align="center">Vietnamese gang pew pew pew </h4>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/SardonicSpotlessHuia-size_restricted.gif">
 
 - I’m currently learning **everything about full stack**
@@ -31,8 +21,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/junwinston"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/junwinston" /></a></p><br><br>
-<h3 align="left">Detail:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junwinston&show_icons=true&locale=en" alt="junwinston" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junwinston&" alt="junwinston" /></p>
+
