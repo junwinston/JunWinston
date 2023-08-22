@@ -1,3 +1,14 @@
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tangly1024&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tangly1024&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tangly1024&theme=github" />
+  </a>
+</div>
 <h1 align="center">Hi, I'm Jun Winston</h1>
 <h3 align="center">Huỳnh Minh Gia Thịnh nè mấy con zợ ơi</h3>
 <h4 align="center">Vietnamese gang pew pew pew </h4>
