@@ -3,8 +3,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junwinston&show_icons=true&locale=en" alt="junwinston" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junwinston&" alt="junwinston" /></p>
-
 <img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/SardonicSpotlessHuia-size_restricted.gif">
 
 - I’m currently learning **everything about full stack**
