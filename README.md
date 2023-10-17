@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/SardonicSpotlessHuia-size_restricted.gif">
 
-- I found her, thanks for your existence...
+- hi!
 - I’m currently learning **everything about MATH and some f*cking thing i don't know**
 
 - How to reach me **junwinston@outlook.com**
