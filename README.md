@@ -6,8 +6,6 @@
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/SardonicSpotlessHuia-size_restricted.gif">
 
 - Hi! My name is Huynh Minh Gia Thinh.
-- I’m currently learning **everything about MATH and some f*cking thing i don't know**
-
 - How to reach me **junwinston@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
